@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">✨ BSDevEngine ✨</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Explorer</h3>
+<h3 align="center"> Full Stack Developer | AI Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+BS+Balaji;Full+Stack+Developer;Building+Modern+Web+Apps;Learning+AI+%26+Cloud;Code+Create+Innovate"/>
@@ -70,7 +70,7 @@
 
 ---
 
-## 🚀 Projects Focus
+##  Projects Focus
 - 🔹 Full Stack Web Applications  
 - 🔹 REST API Development  
 - 🔹 Responsive UI Design  
@@ -78,17 +78,17 @@
 
 ---
 
-## ✍️ Random Dev Quote
+##  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-## 🔝 Top Contributed Repo
+##  Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bsbalaji7&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-## 🧠 Developer Mindset
+##  Developer Mindset
 - Clean & scalable code  
 - Continuous learning  
 - Real-world project building  
@@ -96,22 +96,22 @@
 
 ---
 
-## 🎯 Goals
+##  Goals
 - Become a top Full Stack Developer  
 - Contribute to Open Source  
 - Build impactful applications  
 
 ---
 
-## 🔥 Motto
+##  Motto
 > Code. Build. Scale. Repeat.
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=bsbalaji7&icon=0&color=0"/>
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
 </p>
 
 <p align="center">
-   ⭐ Star your favorite repos | 🚀 Keep Coding
+    Star your favorite repos | Keep Coding
 </p>
