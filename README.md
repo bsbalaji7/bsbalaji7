@@ -14,7 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=bsbalaji7&label=PROFILE+VIEWS&color=0e75b6&style=flat"/>
 </p>
 
-
 ---
 
 ## 👨‍💻 About Me
@@ -48,7 +47,11 @@
 
 ## ⚙️ Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,docker,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,git,github,vscode,figma" /><br><br>
+  
+  <!-- IDE Badges -->
+  <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 </p>
 
 ---
@@ -67,7 +70,7 @@
 
 ---
 
-##  Projects Focus
+## 🚀 Projects Focus
 - 🔹 Full Stack Web Applications  
 - 🔹 REST API Development  
 - 🔹 Responsive UI Design  
@@ -75,7 +78,7 @@
 
 ---
 
-## ✍️Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
@@ -85,7 +88,7 @@
 
 ---
 
-##  Developer Mindset
+## 🧠 Developer Mindset
 - Clean & scalable code  
 - Continuous learning  
 - Real-world project building  
@@ -93,14 +96,14 @@
 
 ---
 
-##  Goals
+## 🎯 Goals
 - Become a top Full Stack Developer  
 - Contribute to Open Source  
 - Build impactful applications  
 
 ---
 
-##  Motto
+## 🔥 Motto
 > Code. Build. Scale. Repeat.
 
 ---
@@ -110,5 +113,5 @@
 </p>
 
 <p align="center">
-   Star your favorite repos |  Keep Coding
+   ⭐ Star your favorite repos | 🚀 Keep Coding
 </p>
