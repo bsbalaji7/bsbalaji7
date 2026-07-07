@@ -21,7 +21,7 @@
 - 💻 Full Stack Developer  
 - 🌐 Passionate about Web Development  
 - 🌱 Currently learning: **Express, Node.js, MongoDB, Mongoose, Java**  
-- 🤖 Interested in **AI & Cloud Computing**  
+- 🤖 Interested in **AI, Machine Learning & Cloud Computing**  
 - 📫 Email: **bsbalaji101005@gmail.com**
 
 ---
