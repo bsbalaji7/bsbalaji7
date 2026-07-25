@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=bsbalaji7&theme=radical" alt="BS GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=bsbalaji7&theme=radical&hide_border=false" alt="BS GitHub Streak" />
 </p>
 
 <p align="center">
