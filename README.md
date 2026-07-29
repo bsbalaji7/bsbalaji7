@@ -58,7 +58,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bsbalaji7&show_icons=true&theme=radical" alt="BS GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bsbalaji7&show_icons=true&theme=radical&hide_border=false" alt="BS GitHub Stats" />
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsbalaji7&layout=compact&theme=radical" alt="BS Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bsbalaji7&layout=compact&theme=radical&langs_count=8" alt="BS Top Languages" />
 </p>
 
 ---
