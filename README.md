@@ -57,17 +57,11 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bsbalaji7&show_icons=true&theme=radical" alt="BS GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bsbalaji7&theme=radical&hide_border=false" alt="BS GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bsbalaji7&layout=compact&theme=radical&langs_count=8" alt="BS Top Languages" />
-</p>
 
 ---
 
