@@ -20,8 +20,8 @@
 - 👋 AKA **BS / BSDevEngine**
 - 💻 Full Stack Developer  
 - 🌐 Passionate about Web Development  
-- 🌱 Currently learning: **Express, Node.js, MongoDB, Mongoose, Java**  
-- 🤖 Interested in **AI, Machine Learning & Cloud Computing**  
+- 🌱 Currently learning: **AI, Machine Learning, Express, Java, Python**  
+- 🤖 Interested in **Web Development, Software Development, AI, ML**  
 - 📫 Email: **bsbalaji101005@gmail.com**
 
 ---
